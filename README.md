@@ -54,15 +54,14 @@ It integrates multiple data sources, applies a clean **star schema data model**,
 ![Dashboard Overview](Screenshots/dashboard_overview.png)  
 ![Revenue by Country](Screenshots/revenue_country.png)  
 
----
-
 ## 📌 Conclusion
 This project demonstrates how **Power BI transforms raw, scattered data into actionable insights**, helping businesses track global performance, analyze marketplaces, and make informed strategic decisions.  
 
 ---
 
 ### 🔗 Connect with Me
-💼 [LinkedIn](www.linkedin.com/in/suyogpunde0411)
+💼 [LinkedIn](www.linkedin.com/in/suyogpunde0411
+)
 
 
 
