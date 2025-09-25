@@ -50,11 +50,14 @@ It integrates multiple data sources, applies a clean **star schema data model**,
 ---
 
 ## 📷 Sample Visuals
-*(Add your screenshots here)*  
 ![Dashboard Overview](Screenshot%202025-05-21%20130550.png)  
+&nbsp; &nbsp; 
 ![Map Charts](Screenshot%202025-05-21%20130808.png)
+&nbsp; &nbsp; 
 ![Data Modelling](Screenshot%202025-09-25%20145049.png)
-![Product Chart](Screenshot%202025-09-25%20145049.png)
+&nbsp; &nbsp; 
+![Product Chart](Screenshot%202025-09-25%20130853.png)
+&nbsp; &nbsp; 
 
 
 ## 📌 Conclusion
