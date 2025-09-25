@@ -60,8 +60,7 @@ This project demonstrates how **Power BI transforms raw, scattered data into act
 ---
 
 ### 🔗 Connect with Me
-💼 [LinkedIn](www.linkedin.com/in/suyogpunde0411
-)
+💼 [LinkedIn](https://www.linkedin.com/in/suyogpunde0411/)
 
 
 
