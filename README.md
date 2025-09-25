@@ -56,7 +56,7 @@ It integrates multiple data sources, applies a clean **star schema data model**,
 &nbsp; &nbsp; 
 ![Data Modelling](Screenshot%202025-09-25%20145049.png)
 &nbsp; &nbsp; 
-![Product Chart](Screenshot%202025-09-25%20130853.png)
+![Product Chart](Screenshot%202025-05-21%20130853.png)
 &nbsp; &nbsp; 
 
 
